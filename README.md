@@ -1,2 +1,2 @@
-# gs-proxy
-Simple nginx proxy to google cloud storage
+# gcs-proxy
+Simple NGINX proxy to Google Cloud Storage
